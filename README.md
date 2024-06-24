@@ -4,7 +4,7 @@ This project provides a visual representation of agricultural data from India, s
 
 ## Project Structure
 The project is structured as follows:
-.
+``` 
 ├── src
 │   ├── components
 │   │   ├── DisplayTable.tsx
@@ -17,7 +17,7 @@ The project is structured as follows:
 ├── package.json
 ├── tsconfig.json
 ├── README.md
-
+```
 
 ## Installation
 
