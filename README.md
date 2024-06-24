@@ -37,8 +37,18 @@ yarn install
 yarn start
 ```
 
+### Build the application:
+```
+yarn build
+```
+
 ### Usage
 
 Once the application is running, navigate to http://localhost:3000 in your web browser to view the data tables.
 
+### Demo screenshots
+
+![image](https://github.com/Ram1008/Assignment-Manufac/assets/76439385/450266f3-6069-44cb-85fa-ba6039a98dce)
+
+![image](https://github.com/Ram1008/Assignment-Manufac/assets/76439385/556564e6-cf8e-43ee-bcbe-38ad6ee352d1)
 
