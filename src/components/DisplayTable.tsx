@@ -1,4 +1,4 @@
-import AgroData from '../Manufac _ India Agro Dataset.json';
+import AgroData from '../data/Manufac _ India Agro Dataset.json';
 import { Table, TableProps } from '@mantine/core';
 
 const DisplayTable = () => {
