@@ -1,0 +1,7386 @@
+[
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "CoarseCereals",
+    "CropProduction": 154,
+    "Yield": 408,
+    "AreaUnderCultivation": 377
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "CottonLint",
+    "CropProduction": 30,
+    "Yield": 88,
+    "AreaUnderCultivation": 58.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "Groundnut",
+    "CropProduction": 35,
+    "Yield": 775,
+    "AreaUnderCultivation": 44.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "Pulses",
+    "CropProduction": 84,
+    "Yield": 441,
+    "AreaUnderCultivation": 191
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 8,
+    "Yield": 368,
+    "AreaUnderCultivation": 20.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 33,
+    "Yield": 1043,
+    "AreaUnderCultivation": 5.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "Rice",
+    "CropProduction": 206,
+    "Yield": 668,
+    "AreaUnderCultivation": 308
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "Sugarcane",
+    "CropProduction": 571,
+    "Yield": 33422,
+    "AreaUnderCultivation": 17.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 731,
+    "AreaUnderCultivation": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "CropName": "Wheat",
+    "CropProduction": 65,
+    "Yield": 663,
+    "AreaUnderCultivation": 98
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "CoarseCereals",
+    "CropProduction": 161,
+    "Yield": 414,
+    "AreaUnderCultivation": 389
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "CottonLint",
+    "CropProduction": 33,
+    "Yield": 85,
+    "AreaUnderCultivation": 65.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "Groundnut",
+    "CropProduction": 32,
+    "Yield": 649,
+    "AreaUnderCultivation": 49.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "Pulses",
+    "CropProduction": 84,
+    "Yield": 448,
+    "AreaUnderCultivation": 188
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 9,
+    "Yield": 393,
+    "AreaUnderCultivation": 24
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 47,
+    "Yield": 1074,
+    "AreaUnderCultivation": 7.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "Rice",
+    "CropProduction": 213,
+    "Yield": 714,
+    "AreaUnderCultivation": 298
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "Sugarcane",
+    "CropProduction": 616,
+    "Yield": 31786,
+    "AreaUnderCultivation": 19.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "Tobacco",
+    "CropProduction": 2,
+    "Yield": 723,
+    "AreaUnderCultivation": 2.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "CropName": "Wheat",
+    "CropProduction": 62,
+    "Yield": 653,
+    "AreaUnderCultivation": 95
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "CoarseCereals",
+    "CropProduction": 196,
+    "Yield": 462,
+    "AreaUnderCultivation": 425
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "CottonLint",
+    "CropProduction": 33,
+    "Yield": 89,
+    "AreaUnderCultivation": 63.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "Groundnut",
+    "CropProduction": 29,
+    "Yield": 611,
+    "AreaUnderCultivation": 48
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "Pulses",
+    "CropProduction": 92,
+    "Yield": 463,
+    "AreaUnderCultivation": 198
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 9,
+    "Yield": 408,
+    "AreaUnderCultivation": 21.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 53,
+    "Yield": 1028,
+    "AreaUnderCultivation": 9.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "Rice",
+    "CropProduction": 229,
+    "Yield": 764,
+    "AreaUnderCultivation": 300
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "Sugarcane",
+    "CropProduction": 510,
+    "Yield": 29495,
+    "AreaUnderCultivation": 17.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 675,
+    "AreaUnderCultivation": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "CropName": "Wheat",
+    "CropProduction": 75,
+    "Yield": 763,
+    "AreaUnderCultivation": 98
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "CoarseCereals",
+    "CropProduction": 230,
+    "Yield": 506,
+    "AreaUnderCultivation": 454
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "CottonLint",
+    "CropProduction": 41,
+    "Yield": 100,
+    "AreaUnderCultivation": 69.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "Groundnut",
+    "CropProduction": 35,
+    "Yield": 811,
+    "AreaUnderCultivation": 42.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "Pulses",
+    "CropProduction": 106,
+    "Yield": 489,
+    "AreaUnderCultivation": 217
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 9,
+    "Yield": 389,
+    "AreaUnderCultivation": 22.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 38,
+    "Yield": 992,
+    "AreaUnderCultivation": 6.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "Rice",
+    "CropProduction": 282,
+    "Yield": 902,
+    "AreaUnderCultivation": 313
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "Sugarcane",
+    "CropProduction": 444,
+    "Yield": 31497,
+    "AreaUnderCultivation": 14.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 737,
+    "AreaUnderCultivation": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "CropName": "Wheat",
+    "CropProduction": 80,
+    "Yield": 750,
+    "AreaUnderCultivation": 107
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "CoarseCereals",
+    "CropProduction": 228,
+    "Yield": 520,
+    "AreaUnderCultivation": 439
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "CottonLint",
+    "CropProduction": 45,
+    "Yield": 100,
+    "AreaUnderCultivation": 75.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "Groundnut",
+    "CropProduction": 43,
+    "Yield": 766,
+    "AreaUnderCultivation": 55.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "Pulses",
+    "CropProduction": 110,
+    "Yield": 500,
+    "AreaUnderCultivation": 219
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 10,
+    "Yield": 425,
+    "AreaUnderCultivation": 24.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 39,
+    "Yield": 1021,
+    "AreaUnderCultivation": 6.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "Rice",
+    "CropProduction": 252,
+    "Yield": 820,
+    "AreaUnderCultivation": 308
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "Sugarcane",
+    "CropProduction": 587,
+    "Yield": 36303,
+    "AreaUnderCultivation": 16.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 737,
+    "AreaUnderCultivation": 3.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "CropName": "Wheat",
+    "CropProduction": 90,
+    "Yield": 803,
+    "AreaUnderCultivation": 113
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "CoarseCereals",
+    "CropProduction": 195,
+    "Yield": 449,
+    "AreaUnderCultivation": 435
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "CottonLint",
+    "CropProduction": 42,
+    "Yield": 88,
+    "AreaUnderCultivation": 80.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "Groundnut",
+    "CropProduction": 39,
+    "Yield": 752,
+    "AreaUnderCultivation": 51.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "Pulses",
+    "CropProduction": 110,
+    "Yield": 476,
+    "AreaUnderCultivation": 232
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 9,
+    "Yield": 336,
+    "AreaUnderCultivation": 25.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 54,
+    "Yield": 1038,
+    "AreaUnderCultivation": 9.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "Rice",
+    "CropProduction": 276,
+    "Yield": 874,
+    "AreaUnderCultivation": 315
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "Sugarcane",
+    "CropProduction": 605,
+    "Yield": 32779,
+    "AreaUnderCultivation": 18.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 739,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "CropName": "Wheat",
+    "CropProduction": 88,
+    "Yield": 708,
+    "AreaUnderCultivation": 124
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "CoarseCereals",
+    "CropProduction": 199,
+    "Yield": 473,
+    "AreaUnderCultivation": 420
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "CottonLint",
+    "CropProduction": 49,
+    "Yield": 104,
+    "AreaUnderCultivation": 80.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "Groundnut",
+    "CropProduction": 44,
+    "Yield": 783,
+    "AreaUnderCultivation": 55.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "Pulses",
+    "CropProduction": 116,
+    "Yield": 495,
+    "AreaUnderCultivation": 233
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 10,
+    "Yield": 411,
+    "AreaUnderCultivation": 25.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 58,
+    "Yield": 977,
+    "AreaUnderCultivation": 10.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "Rice",
+    "CropProduction": 290,
+    "Yield": 900,
+    "AreaUnderCultivation": 323
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "Sugarcane",
+    "CropProduction": 691,
+    "Yield": 33683,
+    "AreaUnderCultivation": 20.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 728,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "CropName": "Wheat",
+    "CropProduction": 94,
+    "Yield": 695,
+    "AreaUnderCultivation": 135
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "CoarseCereals",
+    "CropProduction": 212,
+    "Yield": 495,
+    "AreaUnderCultivation": 429
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "CottonLint",
+    "CropProduction": 50,
+    "Yield": 105,
+    "AreaUnderCultivation": 80.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "Groundnut",
+    "CropProduction": 47,
+    "Yield": 734,
+    "AreaUnderCultivation": 64.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "Pulses",
+    "CropProduction": 96,
+    "Yield": 424,
+    "AreaUnderCultivation": 225
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 9,
+    "Yield": 387,
+    "AreaUnderCultivation": 24.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 53,
+    "Yield": 944,
+    "AreaUnderCultivation": 10.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "Rice",
+    "CropProduction": 255,
+    "Yield": 790,
+    "AreaUnderCultivation": 323
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "Sugarcane",
+    "CropProduction": 712,
+    "Yield": 34325,
+    "AreaUnderCultivation": 20.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "Tobacco",
+    "CropProduction": 2,
+    "Yield": 669,
+    "AreaUnderCultivation": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "CropName": "Wheat",
+    "CropProduction": 80,
+    "Yield": 682,
+    "AreaUnderCultivation": 117
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "CoarseCereals",
+    "CropProduction": 232,
+    "Yield": 519,
+    "AreaUnderCultivation": 447
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "CottonLint",
+    "CropProduction": 49,
+    "Yield": 104,
+    "AreaUnderCultivation": 79.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "Groundnut",
+    "CropProduction": 52,
+    "Yield": 828,
+    "AreaUnderCultivation": 62.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "Pulses",
+    "CropProduction": 132,
+    "Yield": 541,
+    "AreaUnderCultivation": 243
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 10,
+    "Yield": 426,
+    "AreaUnderCultivation": 24.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 69,
+    "Yield": 1130,
+    "AreaUnderCultivation": 11
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "Rice",
+    "CropProduction": 309,
+    "Yield": 930,
+    "AreaUnderCultivation": 332
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "Sugarcane",
+    "CropProduction": 734,
+    "Yield": 37658,
+    "AreaUnderCultivation": 19.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 836,
+    "AreaUnderCultivation": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "CropName": "Wheat",
+    "CropProduction": 100,
+    "Yield": 789,
+    "AreaUnderCultivation": 126
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "CoarseCereals",
+    "CropProduction": 229,
+    "Yield": 522,
+    "AreaUnderCultivation": 438
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "CottonLint",
+    "CropProduction": 37,
+    "Yield": 86,
+    "AreaUnderCultivation": 73
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "Groundnut",
+    "CropProduction": 46,
+    "Yield": 708,
+    "AreaUnderCultivation": 64.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "Pulses",
+    "CropProduction": 118,
+    "Yield": 475,
+    "AreaUnderCultivation": 248
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 11,
+    "Yield": 365,
+    "AreaUnderCultivation": 29.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 57,
+    "Yield": 1049,
+    "AreaUnderCultivation": 9.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "Rice",
+    "CropProduction": 317,
+    "Yield": 937,
+    "AreaUnderCultivation": 338
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "Sugarcane",
+    "CropProduction": 778,
+    "Yield": 36414,
+    "AreaUnderCultivation": 21.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 716,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "CropName": "Wheat",
+    "CropProduction": 103,
+    "Yield": 772,
+    "AreaUnderCultivation": 134
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "CoarseCereals",
+    "CropProduction": 237,
+    "Yield": 528,
+    "AreaUnderCultivation": 450
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "CottonLint",
+    "CropProduction": 56,
+    "Yield": 125,
+    "AreaUnderCultivation": 76.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "Groundnut",
+    "CropProduction": 48,
+    "Yield": 745,
+    "AreaUnderCultivation": 64.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "Pulses",
+    "CropProduction": 127,
+    "Yield": 539,
+    "AreaUnderCultivation": 236
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 14,
+    "Yield": 467,
+    "AreaUnderCultivation": 28.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 53,
+    "Yield": 1049,
+    "AreaUnderCultivation": 9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "Rice",
+    "CropProduction": 346,
+    "Yield": 1013,
+    "AreaUnderCultivation": 341
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "Sugarcane",
+    "CropProduction": 1100,
+    "Yield": 45549,
+    "AreaUnderCultivation": 24.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 766,
+    "AreaUnderCultivation": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "CropName": "Wheat",
+    "CropProduction": 110,
+    "Yield": 851,
+    "AreaUnderCultivation": 129
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "CoarseCereals",
+    "CropProduction": 232,
+    "Yield": 519,
+    "AreaUnderCultivation": 447
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "CottonLint",
+    "CropProduction": 49,
+    "Yield": 103,
+    "AreaUnderCultivation": 79.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "Groundnut",
+    "CropProduction": 50,
+    "Yield": 725,
+    "AreaUnderCultivation": 68.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "Pulses",
+    "CropProduction": 118,
+    "Yield": 485,
+    "AreaUnderCultivation": 242
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 14,
+    "Yield": 425,
+    "AreaUnderCultivation": 31.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 82,
+    "Yield": 1104,
+    "AreaUnderCultivation": 13.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "Rice",
+    "CropProduction": 357,
+    "Yield": 1028,
+    "AreaUnderCultivation": 347
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "Sugarcane",
+    "CropProduction": 1040,
+    "Yield": 42349,
+    "AreaUnderCultivation": 24.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 811,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "CropName": "Wheat",
+    "CropProduction": 121,
+    "Yield": 890,
+    "AreaUnderCultivation": 136
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "CoarseCereals",
+    "CropProduction": 246,
+    "Yield": 556,
+    "AreaUnderCultivation": 443
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "CottonLint",
+    "CropProduction": 55,
+    "Yield": 122,
+    "AreaUnderCultivation": 77.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "Groundnut",
+    "CropProduction": 51,
+    "Yield": 695,
+    "AreaUnderCultivation": 72.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "Pulses",
+    "CropProduction": 115,
+    "Yield": 475,
+    "AreaUnderCultivation": 243
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 13,
+    "Yield": 417,
+    "AreaUnderCultivation": 31.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 72,
+    "Yield": 1041,
+    "AreaUnderCultivation": 12.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "Rice",
+    "CropProduction": 332,
+    "Yield": 931,
+    "AreaUnderCultivation": 357
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "Sugarcane",
+    "CropProduction": 919,
+    "Yield": 40996,
+    "AreaUnderCultivation": 22.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 842,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "CropName": "Wheat",
+    "CropProduction": 108,
+    "Yield": 793,
+    "AreaUnderCultivation": 136
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "CoarseCereals",
+    "CropProduction": 237,
+    "Yield": 540,
+    "AreaUnderCultivation": 439
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "CottonLint",
+    "CropProduction": 58,
+    "Yield": 119,
+    "AreaUnderCultivation": 82.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "Groundnut",
+    "CropProduction": 53,
+    "Yield": 769,
+    "AreaUnderCultivation": 68.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "Pulses",
+    "CropProduction": 101,
+    "Yield": 416,
+    "AreaUnderCultivation": 242
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 9,
+    "Yield": 300,
+    "AreaUnderCultivation": 30.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 80,
+    "Yield": 1130,
+    "AreaUnderCultivation": 12.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "Rice",
+    "CropProduction": 370,
+    "Yield": 1033,
+    "AreaUnderCultivation": 358
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "Sugarcane",
+    "CropProduction": 1042,
+    "Yield": 46353,
+    "AreaUnderCultivation": 22.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 817,
+    "AreaUnderCultivation": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "CropName": "Wheat",
+    "CropProduction": 99,
+    "Yield": 730,
+    "AreaUnderCultivation": 135
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "CoarseCereals",
+    "CropProduction": 254,
+    "Yield": 514,
+    "AreaUnderCultivation": 444
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "CottonLint",
+    "CropProduction": 60,
+    "Yield": 122,
+    "AreaUnderCultivation": 83.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "Groundnut",
+    "CropProduction": 60,
+    "Yield": 814,
+    "AreaUnderCultivation": 73.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "Pulses",
+    "CropProduction": 124,
+    "Yield": 520,
+    "AreaUnderCultivation": 239
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 15,
+    "Yield": 507,
+    "AreaUnderCultivation": 29.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 77,
+    "Yield": 1136,
+    "AreaUnderCultivation": 12.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "Rice",
+    "CropProduction": 393,
+    "Yield": 1078,
+    "AreaUnderCultivation": 365
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "Sugarcane",
+    "CropProduction": 1219,
+    "Yield": 46838,
+    "AreaUnderCultivation": 26
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 876,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "CropName": "Wheat",
+    "CropProduction": 123,
+    "Yield": 913,
+    "AreaUnderCultivation": 134
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "CoarseCereals",
+    "CropProduction": 214,
+    "Yield": 483,
+    "AreaUnderCultivation": 443
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "CottonLint",
+    "CropProduction": 49,
+    "Yield": 104,
+    "AreaUnderCultivation": 79.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "Groundnut",
+    "CropProduction": 43,
+    "Yield": 554,
+    "AreaUnderCultivation": 77
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "Pulses",
+    "CropProduction": 99,
+    "Yield": 438,
+    "AreaUnderCultivation": 227
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 13,
+    "Yield": 446,
+    "AreaUnderCultivation": 29.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 58,
+    "Yield": 936,
+    "AreaUnderCultivation": 11.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "Rice",
+    "CropProduction": 306,
+    "Yield": 862,
+    "AreaUnderCultivation": 355
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "Sugarcane",
+    "CropProduction": 1240,
+    "Yield": 43717,
+    "AreaUnderCultivation": 28.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 778,
+    "AreaUnderCultivation": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "CropName": "Wheat",
+    "CropProduction": 104,
+    "Yield": 827,
+    "AreaUnderCultivation": 126
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "CoarseCereals",
+    "CropProduction": 241,
+    "Yield": 533,
+    "AreaUnderCultivation": 451
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "CottonLint",
+    "CropProduction": 53,
+    "Yield": 114,
+    "AreaUnderCultivation": 78.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "Groundnut",
+    "CropProduction": 44,
+    "Yield": 604,
+    "AreaUnderCultivation": 73
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "Pulses",
+    "CropProduction": 84,
+    "Yield": 377,
+    "AreaUnderCultivation": 221
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 12,
+    "Yield": 408,
+    "AreaUnderCultivation": 30.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 66,
+    "Yield": 1058,
+    "AreaUnderCultivation": 11.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "Rice",
+    "CropProduction": 304,
+    "Yield": 863,
+    "AreaUnderCultivation": 353
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "Sugarcane",
+    "CropProduction": 928,
+    "Yield": 40336,
+    "AreaUnderCultivation": 23
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 834,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "CropName": "Wheat",
+    "CropProduction": 114,
+    "Yield": 887,
+    "AreaUnderCultivation": 128
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "CoarseCereals",
+    "CropProduction": 288,
+    "Yield": 608,
+    "AreaUnderCultivation": 473
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "CottonLint",
+    "CropProduction": 58,
+    "Yield": 123,
+    "AreaUnderCultivation": 80
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "Groundnut",
+    "CropProduction": 57,
+    "Yield": 759,
+    "AreaUnderCultivation": 75.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "Pulses",
+    "CropProduction": 121,
+    "Yield": 534,
+    "AreaUnderCultivation": 227
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 16,
+    "Yield": 483,
+    "AreaUnderCultivation": 32.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 76,
+    "Yield": 1137,
+    "AreaUnderCultivation": 12
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "Rice",
+    "CropProduction": 376,
+    "Yield": 1032,
+    "AreaUnderCultivation": 364
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "Sugarcane",
+    "CropProduction": 955,
+    "Yield": 40665,
+    "AreaUnderCultivation": 20.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 871,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "CropName": "Wheat",
+    "CropProduction": 165,
+    "Yield": 1103,
+    "AreaUnderCultivation": 150
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "CoarseCereals",
+    "CropProduction": 252,
+    "Yield": 545,
+    "AreaUnderCultivation": 462
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "CottonLint",
+    "CropProduction": 55,
+    "Yield": 122,
+    "AreaUnderCultivation": 76
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "Groundnut",
+    "CropProduction": 46,
+    "Yield": 653,
+    "AreaUnderCultivation": 70.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "Pulses",
+    "CropProduction": 104,
+    "Yield": 490,
+    "AreaUnderCultivation": 213
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 14,
+    "Yield": 469,
+    "AreaUnderCultivation": 28.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 38,
+    "Yield": 855,
+    "AreaUnderCultivation": 8.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "Rice",
+    "CropProduction": 398,
+    "Yield": 1076,
+    "AreaUnderCultivation": 370
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "Sugarcane",
+    "CropProduction": 1247,
+    "Yield": 49236,
+    "AreaUnderCultivation": 25.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 821,
+    "AreaUnderCultivation": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "CropName": "Wheat",
+    "CropProduction": 187,
+    "Yield": 1169,
+    "AreaUnderCultivation": 160
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "CoarseCereals",
+    "CropProduction": 273,
+    "Yield": 578,
+    "AreaUnderCultivation": 472
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "Coffee",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "CottonLint",
+    "CropProduction": 56,
+    "Yield": 122,
+    "AreaUnderCultivation": 77.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "Groundnut",
+    "CropProduction": 51,
+    "Yield": 720,
+    "AreaUnderCultivation": 71.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "Pulses",
+    "CropProduction": 117,
+    "Yield": 531,
+    "AreaUnderCultivation": 220
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 16,
+    "Yield": 493,
+    "AreaUnderCultivation": 31.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 68,
+    "Yield": 1120,
+    "AreaUnderCultivation": 10.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "Rice",
+    "CropProduction": 404,
+    "Yield": 1073,
+    "AreaUnderCultivation": 377
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "Soyabean",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "Sugarcane",
+    "CropProduction": 1350,
+    "Yield": 49121,
+    "AreaUnderCultivation": 27.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "Tea",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 770,
+    "AreaUnderCultivation": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "CropName": "Wheat",
+    "CropProduction": 201,
+    "Yield": 1208,
+    "AreaUnderCultivation": 166
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "CoarseCereals",
+    "CropProduction": 306,
+    "Yield": 665,
+    "AreaUnderCultivation": 460
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "Coffee",
+    "CropProduction": 1102,
+    "Yield": 814,
+    "AreaUnderCultivation": 1.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "CottonLint",
+    "CropProduction": 48,
+    "Yield": 106,
+    "AreaUnderCultivation": 76.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "Groundnut",
+    "CropProduction": 61,
+    "Yield": 834,
+    "AreaUnderCultivation": 73.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "Pulses",
+    "CropProduction": 118,
+    "Yield": 524,
+    "AreaUnderCultivation": 225
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 20,
+    "Yield": 594,
+    "AreaUnderCultivation": 33.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 62,
+    "Yield": 1032,
+    "AreaUnderCultivation": 10.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "Rice",
+    "CropProduction": 422,
+    "Yield": 1123,
+    "AreaUnderCultivation": 376
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "Soyabean",
+    "CropProduction": 0,
+    "Yield": 426,
+    "AreaUnderCultivation": 0.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "Sugarcane",
+    "CropProduction": 1264,
+    "Yield": 48322,
+    "AreaUnderCultivation": 26.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "Tea",
+    "CropProduction": 4190,
+    "Yield": 1182,
+    "AreaUnderCultivation": 3.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 810,
+    "AreaUnderCultivation": 4.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "CropName": "Wheat",
+    "CropProduction": 238,
+    "Yield": 1307,
+    "AreaUnderCultivation": 182
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "CoarseCereals",
+    "CropProduction": 246,
+    "Yield": 564,
+    "AreaUnderCultivation": 436
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "Coffee",
+    "CropProduction": 690,
+    "Yield": 498,
+    "AreaUnderCultivation": 1.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "CottonLint",
+    "CropProduction": 70,
+    "Yield": 151,
+    "AreaUnderCultivation": 78
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "Groundnut",
+    "CropProduction": 62,
+    "Yield": 823,
+    "AreaUnderCultivation": 75.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "Pulses",
+    "CropProduction": 111,
+    "Yield": 501,
+    "AreaUnderCultivation": 222
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 14,
+    "Yield": 396,
+    "AreaUnderCultivation": 36.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 68,
+    "Yield": 1107,
+    "AreaUnderCultivation": 11.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "Rice",
+    "CropProduction": 431,
+    "Yield": 1141,
+    "AreaUnderCultivation": 378
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "Soyabean",
+    "CropProduction": 0,
+    "Yield": 426,
+    "AreaUnderCultivation": 0.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "Sugarcane",
+    "CropProduction": 1136,
+    "Yield": 47511,
+    "AreaUnderCultivation": 23.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "Tea",
+    "CropProduction": 4350,
+    "Yield": 1221,
+    "AreaUnderCultivation": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 914,
+    "AreaUnderCultivation": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "CropName": "Wheat",
+    "CropProduction": 264,
+    "Yield": 1380,
+    "AreaUnderCultivation": 191
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "CoarseCereals",
+    "CropProduction": 231,
+    "Yield": 548,
+    "AreaUnderCultivation": 422
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "Coffee",
+    "CropProduction": 911,
+    "Yield": 620,
+    "AreaUnderCultivation": 1.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "CottonLint",
+    "CropProduction": 57,
+    "Yield": 127,
+    "AreaUnderCultivation": 76.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "Groundnut",
+    "CropProduction": 41,
+    "Yield": 585,
+    "AreaUnderCultivation": 69.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "Pulses",
+    "CropProduction": 99,
+    "Yield": 474,
+    "AreaUnderCultivation": 209
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 18,
+    "Yield": 545,
+    "AreaUnderCultivation": 33.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 61,
+    "Yield": 1104,
+    "AreaUnderCultivation": 9.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "Rice",
+    "CropProduction": 392,
+    "Yield": 1070,
+    "AreaUnderCultivation": 367
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "Soyabean",
+    "CropProduction": 0,
+    "Yield": 819,
+    "AreaUnderCultivation": 0.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "Sugarcane",
+    "CropProduction": 1249,
+    "Yield": 50933,
+    "AreaUnderCultivation": 24.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "Tea",
+    "CropProduction": 4560,
+    "Yield": 1271,
+    "AreaUnderCultivation": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 837,
+    "AreaUnderCultivation": 4.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "CropName": "Wheat",
+    "CropProduction": 247,
+    "Yield": 1271,
+    "AreaUnderCultivation": 195
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "CoarseCereals",
+    "CropProduction": 288,
+    "Yield": 623,
+    "AreaUnderCultivation": 462
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "Coffee",
+    "CropProduction": 864,
+    "Yield": 555,
+    "AreaUnderCultivation": 1.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "CottonLint",
+    "CropProduction": 63,
+    "Yield": 142,
+    "AreaUnderCultivation": 75.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "Groundnut",
+    "CropProduction": 59,
+    "Yield": 845,
+    "AreaUnderCultivation": 70.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "Pulses",
+    "CropProduction": 100,
+    "Yield": 427,
+    "AreaUnderCultivation": 234
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 17,
+    "Yield": 493,
+    "AreaUnderCultivation": 34.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 77,
+    "Yield": 1188,
+    "AreaUnderCultivation": 11.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "Rice",
+    "CropProduction": 441,
+    "Yield": 1151,
+    "AreaUnderCultivation": 383
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "Soyabean",
+    "CropProduction": 0,
+    "Yield": 829,
+    "AreaUnderCultivation": 0.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "Sugarcane",
+    "CropProduction": 1408,
+    "Yield": 51163,
+    "AreaUnderCultivation": 27.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "Tea",
+    "CropProduction": 4720,
+    "Yield": 1311,
+    "AreaUnderCultivation": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1001,
+    "AreaUnderCultivation": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "CropName": "Wheat",
+    "CropProduction": 218,
+    "Yield": 1172,
+    "AreaUnderCultivation": 186
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "CoarseCereals",
+    "CropProduction": 261,
+    "Yield": 606,
+    "AreaUnderCultivation": 432
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "Coffee",
+    "CropProduction": 925,
+    "Yield": 592,
+    "AreaUnderCultivation": 1.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "CottonLint",
+    "CropProduction": 72,
+    "Yield": 161,
+    "AreaUnderCultivation": 75.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "Groundnut",
+    "CropProduction": 51,
+    "Yield": 724,
+    "AreaUnderCultivation": 70.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "Pulses",
+    "CropProduction": 100,
+    "Yield": 455,
+    "AreaUnderCultivation": 220
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 23,
+    "Yield": 612,
+    "AreaUnderCultivation": 36.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 58,
+    "Yield": 1068,
+    "AreaUnderCultivation": 9.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "Rice",
+    "CropProduction": 396,
+    "Yield": 1045,
+    "AreaUnderCultivation": 379
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "Soyabean",
+    "CropProduction": 1,
+    "Yield": 768,
+    "AreaUnderCultivation": 0.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "Sugarcane",
+    "CropProduction": 1443,
+    "Yield": 49855,
+    "AreaUnderCultivation": 28.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "Tea",
+    "CropProduction": 4890,
+    "Yield": 1353,
+    "AreaUnderCultivation": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 954,
+    "AreaUnderCultivation": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "CropName": "Wheat",
+    "CropProduction": 241,
+    "Yield": 1338,
+    "AreaUnderCultivation": 180
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "CoarseCereals",
+    "CropProduction": 304,
+    "Yield": 694,
+    "AreaUnderCultivation": 438
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "Coffee",
+    "CropProduction": 840,
+    "Yield": 490,
+    "AreaUnderCultivation": 1.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "CottonLint",
+    "CropProduction": 60,
+    "Yield": 138,
+    "AreaUnderCultivation": 73.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "Groundnut",
+    "CropProduction": 68,
+    "Yield": 935,
+    "AreaUnderCultivation": 72.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "Pulses",
+    "CropProduction": 130,
+    "Yield": 533,
+    "AreaUnderCultivation": 245
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 19,
+    "Yield": 580,
+    "AreaUnderCultivation": 33.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 59,
+    "Yield": 1164,
+    "AreaUnderCultivation": 9.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "Rice",
+    "CropProduction": 487,
+    "Yield": 1235,
+    "AreaUnderCultivation": 395
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "Soyabean",
+    "CropProduction": 1,
+    "Yield": 975,
+    "AreaUnderCultivation": 0.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "Sugarcane",
+    "CropProduction": 1406,
+    "Yield": 50903,
+    "AreaUnderCultivation": 27.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "Tea",
+    "CropProduction": 4870,
+    "Yield": 1341,
+    "AreaUnderCultivation": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 950,
+    "AreaUnderCultivation": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "CropName": "Wheat",
+    "CropProduction": 288,
+    "Yield": 1410,
+    "AreaUnderCultivation": 205
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "CoarseCereals",
+    "CropProduction": 289,
+    "Yield": 689,
+    "AreaUnderCultivation": 419
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "Coffee",
+    "CropProduction": 1023,
+    "Yield": 712,
+    "AreaUnderCultivation": 1.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "CottonLint",
+    "CropProduction": 58,
+    "Yield": 144,
+    "AreaUnderCultivation": 68.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "Groundnut",
+    "CropProduction": 53,
+    "Yield": 747,
+    "AreaUnderCultivation": 70.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "Pulses",
+    "CropProduction": 114,
+    "Yield": 494,
+    "AreaUnderCultivation": 230
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 16,
+    "Yield": 496,
+    "AreaUnderCultivation": 31.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 71,
+    "Yield": 1173,
+    "AreaUnderCultivation": 10.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "Rice",
+    "CropProduction": 419,
+    "Yield": 1089,
+    "AreaUnderCultivation": 385
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "Soyabean",
+    "CropProduction": 1,
+    "Yield": 988,
+    "AreaUnderCultivation": 1.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "Sugarcane",
+    "CropProduction": 1530,
+    "Yield": 53383,
+    "AreaUnderCultivation": 28.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "Tea",
+    "CropProduction": 5120,
+    "Yield": 1407,
+    "AreaUnderCultivation": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 969,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "CropName": "Wheat",
+    "CropProduction": 290,
+    "Yield": 1387,
+    "AreaUnderCultivation": 209
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "CoarseCereals",
+    "CropProduction": 300,
+    "Yield": 710,
+    "AreaUnderCultivation": 423
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "Coffee",
+    "CropProduction": 1251,
+    "Yield": 840,
+    "AreaUnderCultivation": 1.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "CottonLint",
+    "CropProduction": 72,
+    "Yield": 157,
+    "AreaUnderCultivation": 78.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "Groundnut",
+    "CropProduction": 61,
+    "Yield": 866,
+    "AreaUnderCultivation": 70.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "Pulses",
+    "CropProduction": 120,
+    "Yield": 510,
+    "AreaUnderCultivation": 235
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 17,
+    "Yield": 460,
+    "AreaUnderCultivation": 35.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 72,
+    "Yield": 1108,
+    "AreaUnderCultivation": 11.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "Rice",
+    "CropProduction": 527,
+    "Yield": 1308,
+    "AreaUnderCultivation": 403
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "Soyabean",
+    "CropProduction": 2,
+    "Yield": 940,
+    "AreaUnderCultivation": 2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "Sugarcane",
+    "CropProduction": 1770,
+    "Yield": 56160,
+    "AreaUnderCultivation": 31.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "Tea",
+    "CropProduction": 5560,
+    "Yield": 1519,
+    "AreaUnderCultivation": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 979,
+    "AreaUnderCultivation": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "CropName": "Wheat",
+    "CropProduction": 318,
+    "Yield": 1480,
+    "AreaUnderCultivation": 215
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "CoarseCereals",
+    "CropProduction": 304,
+    "Yield": 721,
+    "AreaUnderCultivation": 422
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "Coffee",
+    "CropProduction": 1105,
+    "Yield": 706,
+    "AreaUnderCultivation": 1.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "CottonLint",
+    "CropProduction": 80,
+    "Yield": 167,
+    "AreaUnderCultivation": 81.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "Groundnut",
+    "CropProduction": 62,
+    "Yield": 835,
+    "AreaUnderCultivation": 74.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "Pulses",
+    "CropProduction": 122,
+    "Yield": 515,
+    "AreaUnderCultivation": 237
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 19,
+    "Yield": 525,
+    "AreaUnderCultivation": 35.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 83,
+    "Yield": 1186,
+    "AreaUnderCultivation": 12.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "Rice",
+    "CropProduction": 538,
+    "Yield": 1328,
+    "AreaUnderCultivation": 405
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "Soyabean",
+    "CropProduction": 3,
+    "Yield": 975,
+    "AreaUnderCultivation": 3.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "Sugarcane",
+    "CropProduction": 1517,
+    "Yield": 49114,
+    "AreaUnderCultivation": 30.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "Tea",
+    "CropProduction": 5640,
+    "Yield": 1528,
+    "AreaUnderCultivation": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1109,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "CropName": "Wheat",
+    "CropProduction": 355,
+    "Yield": 1568,
+    "AreaUnderCultivation": 226
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "CoarseCereals",
+    "CropProduction": 270,
+    "Yield": 652,
+    "AreaUnderCultivation": 414
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "Coffee",
+    "CropProduction": 1498,
+    "Yield": 889,
+    "AreaUnderCultivation": 1.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "CottonLint",
+    "CropProduction": 77,
+    "Yield": 160,
+    "AreaUnderCultivation": 81.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "Groundnut",
+    "CropProduction": 58,
+    "Yield": 805,
+    "AreaUnderCultivation": 71.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "Pulses",
+    "CropProduction": 86,
+    "Yield": 385,
+    "AreaUnderCultivation": 223
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 14,
+    "Yield": 411,
+    "AreaUnderCultivation": 34.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 80,
+    "Yield": 1177,
+    "AreaUnderCultivation": 12.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "Rice",
+    "CropProduction": 423,
+    "Yield": 1074,
+    "AreaUnderCultivation": 394
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "Soyabean",
+    "CropProduction": 3,
+    "Yield": 568,
+    "AreaUnderCultivation": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "Sugarcane",
+    "CropProduction": 1288,
+    "Yield": 49358,
+    "AreaUnderCultivation": 26.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "Tea",
+    "CropProduction": 5440,
+    "Yield": 1455,
+    "AreaUnderCultivation": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 1031,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "CropName": "Wheat",
+    "CropProduction": 318,
+    "Yield": 1436,
+    "AreaUnderCultivation": 222
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "CoarseCereals",
+    "CropProduction": 290,
+    "Yield": 695,
+    "AreaUnderCultivation": 418
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "Coffee",
+    "CropProduction": 1187,
+    "Yield": 624,
+    "AreaUnderCultivation": 1.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "CottonLint",
+    "CropProduction": 70,
+    "Yield": 152,
+    "AreaUnderCultivation": 78.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "Groundnut",
+    "CropProduction": 50,
+    "Yield": 736,
+    "AreaUnderCultivation": 68
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "Pulses",
+    "CropProduction": 106,
+    "Yield": 473,
+    "AreaUnderCultivation": 225
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 23,
+    "Yield": 560,
+    "AreaUnderCultivation": 41.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 82,
+    "Yield": 1130,
+    "AreaUnderCultivation": 13
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "Rice",
+    "CropProduction": 536,
+    "Yield": 1336,
+    "AreaUnderCultivation": 402
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "Soyabean",
+    "CropProduction": 4,
+    "Yield": 728,
+    "AreaUnderCultivation": 6.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "Sugarcane",
+    "CropProduction": 1543,
+    "Yield": 57844,
+    "AreaUnderCultivation": 26.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "Tea",
+    "CropProduction": 5696,
+    "Yield": 1491,
+    "AreaUnderCultivation": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1065,
+    "AreaUnderCultivation": 4.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "CropName": "Wheat",
+    "CropProduction": 363,
+    "Yield": 1630,
+    "AreaUnderCultivation": 223
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "CoarseCereals",
+    "CropProduction": 311,
+    "Yield": 733,
+    "AreaUnderCultivation": 425
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "Coffee",
+    "CropProduction": 1521,
+    "Yield": 785,
+    "AreaUnderCultivation": 1.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "CottonLint",
+    "CropProduction": 79,
+    "Yield": 166,
+    "AreaUnderCultivation": 80.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "Groundnut",
+    "CropProduction": 72,
+    "Yield": 972,
+    "AreaUnderCultivation": 74.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "Pulses",
+    "CropProduction": 115,
+    "Yield": 483,
+    "AreaUnderCultivation": 238
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 24,
+    "Yield": 541,
+    "AreaUnderCultivation": 44
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 84,
+    "Yield": 1311,
+    "AreaUnderCultivation": 11.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "Rice",
+    "CropProduction": 533,
+    "Yield": 1308,
+    "AreaUnderCultivation": 407
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "Soyabean",
+    "CropProduction": 4,
+    "Yield": 741,
+    "AreaUnderCultivation": 4.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "Sugarcane",
+    "CropProduction": 1864,
+    "Yield": 58359,
+    "AreaUnderCultivation": 31.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "Tea",
+    "CropProduction": 5604,
+    "Yield": 1461,
+    "AreaUnderCultivation": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1172,
+    "AreaUnderCultivation": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "CropName": "Wheat",
+    "CropProduction": 375,
+    "Yield": 1691,
+    "AreaUnderCultivation": 221
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "CoarseCereals",
+    "CropProduction": 278,
+    "Yield": 685,
+    "AreaUnderCultivation": 404
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "Coffee",
+    "CropProduction": 1300,
+    "Yield": 646,
+    "AreaUnderCultivation": 2.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "CottonLint",
+    "CropProduction": 75,
+    "Yield": 163,
+    "AreaUnderCultivation": 78.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "Groundnut",
+    "CropProduction": 53,
+    "Yield": 732,
+    "AreaUnderCultivation": 72.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "Pulses",
+    "CropProduction": 119,
+    "Yield": 519,
+    "AreaUnderCultivation": 228
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 22,
+    "Yield": 577,
+    "AreaUnderCultivation": 38.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 72,
+    "Yield": 1265,
+    "AreaUnderCultivation": 10.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "Rice",
+    "CropProduction": 471,
+    "Yield": 1231,
+    "AreaUnderCultivation": 383
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "Soyabean",
+    "CropProduction": 5,
+    "Yield": 637,
+    "AreaUnderCultivation": 7.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "Sugarcane",
+    "CropProduction": 1895,
+    "Yield": 56441,
+    "AreaUnderCultivation": 33.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "Tea",
+    "CropProduction": 5607,
+    "Yield": 1422,
+    "AreaUnderCultivation": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1157,
+    "AreaUnderCultivation": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "CropName": "Wheat",
+    "CropProduction": 428,
+    "Yield": 1816,
+    "AreaUnderCultivation": 236
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "CoarseCereals",
+    "CropProduction": 339,
+    "Yield": 813,
+    "AreaUnderCultivation": 417
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "Coffee",
+    "CropProduction": 1050,
+    "Yield": 507,
+    "AreaUnderCultivation": 2.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "CottonLint",
+    "CropProduction": 64,
+    "Yield": 141,
+    "AreaUnderCultivation": 77.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "Groundnut",
+    "CropProduction": 71,
+    "Yield": 940,
+    "AreaUnderCultivation": 75.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "Pulses",
+    "CropProduction": 129,
+    "Yield": 548,
+    "AreaUnderCultivation": 235
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 26,
+    "Yield": 673,
+    "AreaUnderCultivation": 38.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 77,
+    "Yield": 1320,
+    "AreaUnderCultivation": 10.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "Rice",
+    "CropProduction": 601,
+    "Yield": 1457,
+    "AreaUnderCultivation": 412
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "Soyabean",
+    "CropProduction": 6,
+    "Yield": 735,
+    "AreaUnderCultivation": 8.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "Sugarcane",
+    "CropProduction": 1741,
+    "Yield": 55978,
+    "AreaUnderCultivation": 31.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "Tea",
+    "CropProduction": 5815,
+    "Yield": 1468,
+    "AreaUnderCultivation": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1120,
+    "AreaUnderCultivation": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "CropName": "Wheat",
+    "CropProduction": 455,
+    "Yield": 1843,
+    "AreaUnderCultivation": 247
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "CoarseCereals",
+    "CropProduction": 312,
+    "Yield": 795,
+    "AreaUnderCultivation": 392
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "Coffee",
+    "CropProduction": 1951,
+    "Yield": 936,
+    "AreaUnderCultivation": 2.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "CottonLint",
+    "CropProduction": 85,
+    "Yield": 196,
+    "AreaUnderCultivation": 73.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "Groundnut",
+    "CropProduction": 64,
+    "Yield": 898,
+    "AreaUnderCultivation": 71.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "Pulses",
+    "CropProduction": 120,
+    "Yield": 526,
+    "AreaUnderCultivation": 227
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 31,
+    "Yield": 771,
+    "AreaUnderCultivation": 39.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 78,
+    "Yield": 1242,
+    "AreaUnderCultivation": 11.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "Rice",
+    "CropProduction": 583,
+    "Yield": 1417,
+    "AreaUnderCultivation": 412
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "Soyabean",
+    "CropProduction": 10,
+    "Yield": 768,
+    "AreaUnderCultivation": 12.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "Sugarcane",
+    "CropProduction": 1703,
+    "Yield": 57673,
+    "AreaUnderCultivation": 29.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "Tea",
+    "CropProduction": 6399,
+    "Yield": 1606,
+    "AreaUnderCultivation": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1113,
+    "AreaUnderCultivation": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "CropName": "Wheat",
+    "CropProduction": 441,
+    "Yield": 1870,
+    "AreaUnderCultivation": 236
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "CoarseCereals",
+    "CropProduction": 262,
+    "Yield": 664,
+    "AreaUnderCultivation": 395
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "Coffee",
+    "CropProduction": 1225,
+    "Yield": 571,
+    "AreaUnderCultivation": 2.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "CottonLint",
+    "CropProduction": 87,
+    "Yield": 197,
+    "AreaUnderCultivation": 75.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "Groundnut",
+    "CropProduction": 51,
+    "Yield": 719,
+    "AreaUnderCultivation": 71.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "Pulses",
+    "CropProduction": 134,
+    "Yield": 547,
+    "AreaUnderCultivation": 244
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 27,
+    "Yield": 674,
+    "AreaUnderCultivation": 39.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 127,
+    "Yield": 1524,
+    "AreaUnderCultivation": 15
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "Rice",
+    "CropProduction": 638,
+    "Yield": 1552,
+    "AreaUnderCultivation": 411
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "Soyabean",
+    "CropProduction": 10,
+    "Yield": 764,
+    "AreaUnderCultivation": 13.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "Sugarcane",
+    "CropProduction": 1707,
+    "Yield": 59889,
+    "AreaUnderCultivation": 28.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "Tea",
+    "CropProduction": 6562,
+    "Yield": 1641,
+    "AreaUnderCultivation": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 1111,
+    "AreaUnderCultivation": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "CropName": "Wheat",
+    "CropProduction": 471,
+    "Yield": 2046,
+    "AreaUnderCultivation": 230
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "CoarseCereals",
+    "CropProduction": 268,
+    "Yield": 675,
+    "AreaUnderCultivation": 397
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "Coffee",
+    "CropProduction": 1921,
+    "Yield": 891,
+    "AreaUnderCultivation": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "CottonLint",
+    "CropProduction": 69,
+    "Yield": 169,
+    "AreaUnderCultivation": 69.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "Groundnut",
+    "CropProduction": 59,
+    "Yield": 841,
+    "AreaUnderCultivation": 69.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "Pulses",
+    "CropProduction": 117,
+    "Yield": 506,
+    "AreaUnderCultivation": 232
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 26,
+    "Yield": 700,
+    "AreaUnderCultivation": 37.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 86,
+    "Yield": 1454,
+    "AreaUnderCultivation": 10.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "Rice",
+    "CropProduction": 606,
+    "Yield": 1471,
+    "AreaUnderCultivation": 412
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "Soyabean",
+    "CropProduction": 9,
+    "Yield": 584,
+    "AreaUnderCultivation": 15.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "Sugarcane",
+    "CropProduction": 1861,
+    "Yield": 60444,
+    "AreaUnderCultivation": 30.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "Tea",
+    "CropProduction": 6246,
+    "Yield": 1508,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1187,
+    "AreaUnderCultivation": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "CropName": "Wheat",
+    "CropProduction": 443,
+    "Yield": 1916,
+    "AreaUnderCultivation": 231
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "CoarseCereals",
+    "CropProduction": 264,
+    "Yield": 721,
+    "AreaUnderCultivation": 366
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "Coffee",
+    "CropProduction": 1227,
+    "Yield": 563,
+    "AreaUnderCultivation": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "CottonLint",
+    "CropProduction": 64,
+    "Yield": 168,
+    "AreaUnderCultivation": 64.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "Groundnut",
+    "CropProduction": 59,
+    "Yield": 855,
+    "AreaUnderCultivation": 68.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "Pulses",
+    "CropProduction": 110,
+    "Yield": 515,
+    "AreaUnderCultivation": 213
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 35,
+    "Yield": 748,
+    "AreaUnderCultivation": 46.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 68,
+    "Yield": 1274,
+    "AreaUnderCultivation": 9.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "Rice",
+    "CropProduction": 569,
+    "Yield": 1465,
+    "AreaUnderCultivation": 388
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "Soyabean",
+    "CropProduction": 9,
+    "Yield": 582,
+    "AreaUnderCultivation": 15.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "Sugarcane",
+    "CropProduction": 1967,
+    "Yield": 60006,
+    "AreaUnderCultivation": 32.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "Tea",
+    "CropProduction": 6743,
+    "Yield": 1628,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 1155,
+    "AreaUnderCultivation": 3.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "CropName": "Wheat",
+    "CropProduction": 462,
+    "Yield": 2002,
+    "AreaUnderCultivation": 231
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "CoarseCereals",
+    "CropProduction": 315,
+    "Yield": 814,
+    "AreaUnderCultivation": 387
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "Coffee",
+    "CropProduction": 2147,
+    "Yield": 972,
+    "AreaUnderCultivation": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "CottonLint",
+    "CropProduction": 87,
+    "Yield": 202,
+    "AreaUnderCultivation": 73.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "Groundnut",
+    "CropProduction": 97,
+    "Yield": 1132,
+    "AreaUnderCultivation": 85.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "Pulses",
+    "CropProduction": 139,
+    "Yield": 598,
+    "AreaUnderCultivation": 232
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 44,
+    "Yield": 906,
+    "AreaUnderCultivation": 48.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 79,
+    "Yield": 1540,
+    "AreaUnderCultivation": 9.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "Rice",
+    "CropProduction": 705,
+    "Yield": 1689,
+    "AreaUnderCultivation": 417
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "Soyabean",
+    "CropProduction": 16,
+    "Yield": 892,
+    "AreaUnderCultivation": 17.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "Sugarcane",
+    "CropProduction": 2030,
+    "Yield": 60992,
+    "AreaUnderCultivation": 33.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "Tea",
+    "CropProduction": 7011,
+    "Yield": 1693,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1307,
+    "AreaUnderCultivation": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "CropName": "Wheat",
+    "CropProduction": 541,
+    "Yield": 2244,
+    "AreaUnderCultivation": 241
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "CoarseCereals",
+    "CropProduction": 348,
+    "Yield": 922,
+    "AreaUnderCultivation": 377
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "Coffee",
+    "CropProduction": 1181,
+    "Yield": 534,
+    "AreaUnderCultivation": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "CottonLint",
+    "CropProduction": 114,
+    "Yield": 252,
+    "AreaUnderCultivation": 76.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "Groundnut",
+    "CropProduction": 81,
+    "Yield": 930,
+    "AreaUnderCultivation": 87.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "Pulses",
+    "CropProduction": 129,
+    "Yield": 549,
+    "AreaUnderCultivation": 234
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 41,
+    "Yield": 831,
+    "AreaUnderCultivation": 49.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 83,
+    "Yield": 1646,
+    "AreaUnderCultivation": 9.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "Rice",
+    "CropProduction": 736,
+    "Yield": 1745,
+    "AreaUnderCultivation": 422
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "Soyabean",
+    "CropProduction": 18,
+    "Yield": 801,
+    "AreaUnderCultivation": 22.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "Sugarcane",
+    "CropProduction": 2256,
+    "Yield": 65612,
+    "AreaUnderCultivation": 34.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "Tea",
+    "CropProduction": 6841,
+    "Yield": 1652,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1335,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "CropName": "Wheat",
+    "CropProduction": 499,
+    "Yield": 2121,
+    "AreaUnderCultivation": 235
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "CoarseCereals",
+    "CropProduction": 327,
+    "Yield": 900,
+    "AreaUnderCultivation": 363
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "Coffee",
+    "CropProduction": 1697,
+    "Yield": 759,
+    "AreaUnderCultivation": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "CottonLint",
+    "CropProduction": 98,
+    "Yield": 225,
+    "AreaUnderCultivation": 74.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "Groundnut",
+    "CropProduction": 75,
+    "Yield": 904,
+    "AreaUnderCultivation": 83.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "Pulses",
+    "CropProduction": 143,
+    "Yield": 578,
+    "AreaUnderCultivation": 247
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 52,
+    "Yield": 904,
+    "AreaUnderCultivation": 57.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 92,
+    "Yield": 1634,
+    "AreaUnderCultivation": 10.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "Rice",
+    "CropProduction": 743,
+    "Yield": 1740,
+    "AreaUnderCultivation": 427
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "Soyabean",
+    "CropProduction": 26,
+    "Yield": 1015,
+    "AreaUnderCultivation": 25.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "Sugarcane",
+    "CropProduction": 2411,
+    "Yield": 65395,
+    "AreaUnderCultivation": 36.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "Tea",
+    "CropProduction": 7203,
+    "Yield": 1727,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1353,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "CropName": "Wheat",
+    "CropProduction": 551,
+    "Yield": 2281,
+    "AreaUnderCultivation": 242
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "CoarseCereals",
+    "CropProduction": 260,
+    "Yield": 778,
+    "AreaUnderCultivation": 334
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "Coffee",
+    "CropProduction": 1800,
+    "Yield": 805,
+    "AreaUnderCultivation": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "CottonLint",
+    "CropProduction": 97,
+    "Yield": 216,
+    "AreaUnderCultivation": 76.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "Groundnut",
+    "CropProduction": 71,
+    "Yield": 818,
+    "AreaUnderCultivation": 86.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "Pulses",
+    "CropProduction": 120,
+    "Yield": 533,
+    "AreaUnderCultivation": 225
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 59,
+    "Yield": 895,
+    "AreaUnderCultivation": 65.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 103,
+    "Yield": 1662,
+    "AreaUnderCultivation": 11.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "Rice",
+    "CropProduction": 747,
+    "Yield": 1751,
+    "AreaUnderCultivation": 427
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "Soyabean",
+    "CropProduction": 25,
+    "Yield": 782,
+    "AreaUnderCultivation": 31.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "Sugarcane",
+    "CropProduction": 2540,
+    "Yield": 66069,
+    "AreaUnderCultivation": 38.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "Tea",
+    "CropProduction": 7542,
+    "Yield": 1800,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1369,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "CropName": "Wheat",
+    "CropProduction": 557,
+    "Yield": 2394,
+    "AreaUnderCultivation": 233
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "CoarseCereals",
+    "CropProduction": 366,
+    "Yield": 1063,
+    "AreaUnderCultivation": 344
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "Coffee",
+    "CropProduction": 1694,
+    "Yield": 758,
+    "AreaUnderCultivation": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "CottonLint",
+    "CropProduction": 114,
+    "Yield": 257,
+    "AreaUnderCultivation": 75.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "Groundnut",
+    "CropProduction": 86,
+    "Yield": 1049,
+    "AreaUnderCultivation": 81.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "Pulses",
+    "CropProduction": 128,
+    "Yield": 573,
+    "AreaUnderCultivation": 224
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 48,
+    "Yield": 776,
+    "AreaUnderCultivation": 61.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 86,
+    "Yield": 1658,
+    "AreaUnderCultivation": 9.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "Rice",
+    "CropProduction": 729,
+    "Yield": 1744,
+    "AreaUnderCultivation": 418
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "Soyabean",
+    "CropProduction": 34,
+    "Yield": 894,
+    "AreaUnderCultivation": 37.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "Sugarcane",
+    "CropProduction": 2280,
+    "Yield": 63843,
+    "AreaUnderCultivation": 35.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "Tea",
+    "CropProduction": 7039,
+    "Yield": 1664,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1425,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "CropName": "Wheat",
+    "CropProduction": 572,
+    "Yield": 2327,
+    "AreaUnderCultivation": 246
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "CoarseCereals",
+    "CropProduction": 308,
+    "Yield": 939,
+    "AreaUnderCultivation": 328
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "Coffee",
+    "CropProduction": 2121,
+    "Yield": 936,
+    "AreaUnderCultivation": 2.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "CottonLint",
+    "CropProduction": 107,
+    "Yield": 249,
+    "AreaUnderCultivation": 73.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "Groundnut",
+    "CropProduction": 78,
+    "Yield": 941,
+    "AreaUnderCultivation": 83.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "Pulses",
+    "CropProduction": 133,
+    "Yield": 598,
+    "AreaUnderCultivation": 223
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 53,
+    "Yield": 847,
+    "AreaUnderCultivation": 62.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 84,
+    "Yield": 1713,
+    "AreaUnderCultivation": 8.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "Rice",
+    "CropProduction": 803,
+    "Yield": 1888,
+    "AreaUnderCultivation": 425
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "Soyabean",
+    "CropProduction": 48,
+    "Yield": 1086,
+    "AreaUnderCultivation": 43.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "Sugarcane",
+    "CropProduction": 2297,
+    "Yield": 67120,
+    "AreaUnderCultivation": 34.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "Tea",
+    "CropProduction": 7608,
+    "Yield": 1796,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1463,
+    "AreaUnderCultivation": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "CropName": "Wheat",
+    "CropProduction": 598,
+    "Yield": 2380,
+    "AreaUnderCultivation": 252
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "CoarseCereals",
+    "CropProduction": 299,
+    "Yield": 929,
+    "AreaUnderCultivation": 322
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "Coffee",
+    "CropProduction": 1801,
+    "Yield": 788,
+    "AreaUnderCultivation": 2.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "CottonLint",
+    "CropProduction": 119,
+    "Yield": 257,
+    "AreaUnderCultivation": 78.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "Groundnut",
+    "CropProduction": 81,
+    "Yield": 1027,
+    "AreaUnderCultivation": 78.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "Pulses",
+    "CropProduction": 140,
+    "Yield": 610,
+    "AreaUnderCultivation": 230
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 58,
+    "Yield": 958,
+    "AreaUnderCultivation": 60.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 91,
+    "Yield": 1760,
+    "AreaUnderCultivation": 9.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "Rice",
+    "CropProduction": 818,
+    "Yield": 1911,
+    "AreaUnderCultivation": 428
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "Soyabean",
+    "CropProduction": 39,
+    "Yield": 911,
+    "AreaUnderCultivation": 43.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "Sugarcane",
+    "CropProduction": 2755,
+    "Yield": 71254,
+    "AreaUnderCultivation": 38.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "Tea",
+    "CropProduction": 7529,
+    "Yield": 1767,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1486,
+    "AreaUnderCultivation": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "CropName": "Wheat",
+    "CropProduction": 658,
+    "Yield": 2559,
+    "AreaUnderCultivation": 257
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "CoarseCereals",
+    "CropProduction": 290,
+    "Yield": 940,
+    "AreaUnderCultivation": 309
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "Coffee",
+    "CropProduction": 2230,
+    "Yield": 921,
+    "AreaUnderCultivation": 2.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "CottonLint",
+    "CropProduction": 129,
+    "Yield": 242,
+    "AreaUnderCultivation": 90.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "Groundnut",
+    "CropProduction": 76,
+    "Yield": 1007,
+    "AreaUnderCultivation": 75.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "Pulses",
+    "CropProduction": 123,
+    "Yield": 552,
+    "AreaUnderCultivation": 223
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 60,
+    "Yield": 916,
+    "AreaUnderCultivation": 65.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 88,
+    "Yield": 1712,
+    "AreaUnderCultivation": 9.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "Rice",
+    "CropProduction": 770,
+    "Yield": 1797,
+    "AreaUnderCultivation": 428
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "Soyabean",
+    "CropProduction": 51,
+    "Yield": 1012,
+    "AreaUnderCultivation": 50.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "Sugarcane",
+    "CropProduction": 2811,
+    "Yield": 67787,
+    "AreaUnderCultivation": 41.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "Tea",
+    "CropProduction": 7560,
+    "Yield": 1770,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1356,
+    "AreaUnderCultivation": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "CropName": "Wheat",
+    "CropProduction": 621,
+    "Yield": 2483,
+    "AreaUnderCultivation": 250
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "CoarseCereals",
+    "CropProduction": 341,
+    "Yield": 1072,
+    "AreaUnderCultivation": 318
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "Coffee",
+    "CropProduction": 2050,
+    "Yield": 816,
+    "AreaUnderCultivation": 2.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "CottonLint",
+    "CropProduction": 142,
+    "Yield": 265,
+    "AreaUnderCultivation": 91.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "Groundnut",
+    "CropProduction": 86,
+    "Yield": 1138,
+    "AreaUnderCultivation": 76
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "Pulses",
+    "CropProduction": 142,
+    "Yield": 635,
+    "AreaUnderCultivation": 225
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 67,
+    "Yield": 1017,
+    "AreaUnderCultivation": 65.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 111,
+    "Yield": 1818,
+    "AreaUnderCultivation": 11
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "Rice",
+    "CropProduction": 817,
+    "Yield": 1882,
+    "AreaUnderCultivation": 434
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "Soyabean",
+    "CropProduction": 54,
+    "Yield": 987,
+    "AreaUnderCultivation": 54.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "Sugarcane",
+    "CropProduction": 2776,
+    "Yield": 66496,
+    "AreaUnderCultivation": 41.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "Tea",
+    "CropProduction": 7801,
+    "Yield": 1809,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1444,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "CropName": "Wheat",
+    "CropProduction": 694,
+    "Yield": 2679,
+    "AreaUnderCultivation": 259
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "CoarseCereals",
+    "CropProduction": 304,
+    "Yield": 986,
+    "AreaUnderCultivation": 308
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "Coffee",
+    "CropProduction": 2283,
+    "Yield": 799,
+    "AreaUnderCultivation": 2.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "CottonLint",
+    "CropProduction": 109,
+    "Yield": 208,
+    "AreaUnderCultivation": 88.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "Groundnut",
+    "CropProduction": 74,
+    "Yield": 1040,
+    "AreaUnderCultivation": 70.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "Pulses",
+    "CropProduction": 138,
+    "Yield": 567,
+    "AreaUnderCultivation": 229
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 47,
+    "Yield": 668,
+    "AreaUnderCultivation": 70.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 110,
+    "Yield": 1792,
+    "AreaUnderCultivation": 11.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "Rice",
+    "CropProduction": 825,
+    "Yield": 1900,
+    "AreaUnderCultivation": 435
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "Soyabean",
+    "CropProduction": 65,
+    "Yield": 1079,
+    "AreaUnderCultivation": 59.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "Sugarcane",
+    "CropProduction": 2795,
+    "Yield": 71134,
+    "AreaUnderCultivation": 39.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "Tea",
+    "CropProduction": 8356,
+    "Yield": 1924,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1394,
+    "AreaUnderCultivation": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "CropName": "Wheat",
+    "CropProduction": 664,
+    "Yield": 2485,
+    "AreaUnderCultivation": 267
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "CoarseCereals",
+    "CropProduction": 313,
+    "Yield": 1068,
+    "AreaUnderCultivation": 293
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "Coffee",
+    "CropProduction": 2650,
+    "Yield": 877,
+    "AreaUnderCultivation": 3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "CottonLint",
+    "CropProduction": 123,
+    "Yield": 224,
+    "AreaUnderCultivation": 93.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "Groundnut",
+    "CropProduction": 90,
+    "Yield": 1214,
+    "AreaUnderCultivation": 74
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "Pulses",
+    "CropProduction": 149,
+    "Yield": 634,
+    "AreaUnderCultivation": 235
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 57,
+    "Yield": 869,
+    "AreaUnderCultivation": 65.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 98,
+    "Yield": 1722,
+    "AreaUnderCultivation": 10.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "Rice",
+    "CropProduction": 861,
+    "Yield": 1921,
+    "AreaUnderCultivation": 448
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "Soyabean",
+    "CropProduction": 71,
+    "Yield": 1100,
+    "AreaUnderCultivation": 64.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "Sugarcane",
+    "CropProduction": 2887,
+    "Yield": 71203,
+    "AreaUnderCultivation": 40.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "Tea",
+    "CropProduction": 8552,
+    "Yield": 1804,
+    "AreaUnderCultivation": 4.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "Tobacco",
+    "CropProduction": 7,
+    "Yield": 1451,
+    "AreaUnderCultivation": 5.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "CropName": "Wheat",
+    "CropProduction": 713,
+    "Yield": 2590,
+    "AreaUnderCultivation": 275
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "CoarseCereals",
+    "CropProduction": 303,
+    "Yield": 1034,
+    "AreaUnderCultivation": 293
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "Coffee",
+    "CropProduction": 2920,
+    "Yield": 947,
+    "AreaUnderCultivation": 3.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "CottonLint",
+    "CropProduction": 115,
+    "Yield": 225,
+    "AreaUnderCultivation": 87.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "Groundnut",
+    "CropProduction": 53,
+    "Yield": 766,
+    "AreaUnderCultivation": 68.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "Pulses",
+    "CropProduction": 134,
+    "Yield": 635,
+    "AreaUnderCultivation": 211
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 58,
+    "Yield": 960,
+    "AreaUnderCultivation": 60.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 106,
+    "Yield": 1836,
+    "AreaUnderCultivation": 10.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "Rice",
+    "CropProduction": 897,
+    "Yield": 1986,
+    "AreaUnderCultivation": 452
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "Soyabean",
+    "CropProduction": 71,
+    "Yield": 1138,
+    "AreaUnderCultivation": 62.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "Sugarcane",
+    "CropProduction": 2993,
+    "Yield": 70935,
+    "AreaUnderCultivation": 42.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "Tea",
+    "CropProduction": 8369,
+    "Yield": 1707,
+    "AreaUnderCultivation": 4.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1211,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "CropName": "Wheat",
+    "CropProduction": 764,
+    "Yield": 2778,
+    "AreaUnderCultivation": 275
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "CoarseCereals",
+    "CropProduction": 311,
+    "Yield": 1027,
+    "AreaUnderCultivation": 303
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "Coffee",
+    "CropProduction": 3012,
+    "Yield": 959,
+    "AreaUnderCultivation": 3.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "CottonLint",
+    "CropProduction": 95,
+    "Yield": 190,
+    "AreaUnderCultivation": 85.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "Groundnut",
+    "CropProduction": 64,
+    "Yield": 977,
+    "AreaUnderCultivation": 65.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "Pulses",
+    "CropProduction": 111,
+    "Yield": 544,
+    "AreaUnderCultivation": 204
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 42,
+    "Yield": 935,
+    "AreaUnderCultivation": 44.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 106,
+    "Yield": 1867,
+    "AreaUnderCultivation": 10.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "Rice",
+    "CropProduction": 850,
+    "Yield": 1901,
+    "AreaUnderCultivation": 447
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "Soyabean",
+    "CropProduction": 53,
+    "Yield": 822,
+    "AreaUnderCultivation": 64.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "Sugarcane",
+    "CropProduction": 2960,
+    "Yield": 68577,
+    "AreaUnderCultivation": 43.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "Tea",
+    "CropProduction": 8484,
+    "Yield": 1682,
+    "AreaUnderCultivation": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "Tobacco",
+    "CropProduction": 3,
+    "Yield": 1318,
+    "AreaUnderCultivation": 2.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "CropName": "Wheat",
+    "CropProduction": 697,
+    "Yield": 2708,
+    "AreaUnderCultivation": 257
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "CoarseCereals",
+    "CropProduction": 334,
+    "Yield": 1131,
+    "AreaUnderCultivation": 295
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "Coffee",
+    "CropProduction": 3006,
+    "Yield": 937,
+    "AreaUnderCultivation": 3.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "CottonLint",
+    "CropProduction": 100,
+    "Yield": 186,
+    "AreaUnderCultivation": 91.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "Groundnut",
+    "CropProduction": 70,
+    "Yield": 1127,
+    "AreaUnderCultivation": 62.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "Pulses",
+    "CropProduction": 134,
+    "Yield": 607,
+    "AreaUnderCultivation": 220
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 51,
+    "Yield": 1002,
+    "AreaUnderCultivation": 50.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 117,
+    "Yield": 2007,
+    "AreaUnderCultivation": 10.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "Rice",
+    "CropProduction": 933,
+    "Yield": 2079,
+    "AreaUnderCultivation": 449
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "Soyabean",
+    "CropProduction": 60,
+    "Yield": 940,
+    "AreaUnderCultivation": 63.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "Sugarcane",
+    "CropProduction": 2972,
+    "Yield": 67370,
+    "AreaUnderCultivation": 44.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "Tea",
+    "CropProduction": 8514,
+    "Yield": 1670,
+    "AreaUnderCultivation": 5.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1565,
+    "AreaUnderCultivation": 3.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "CropName": "Wheat",
+    "CropProduction": 728,
+    "Yield": 2762,
+    "AreaUnderCultivation": 263
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "CoarseCereals",
+    "CropProduction": 261,
+    "Yield": 966,
+    "AreaUnderCultivation": 270
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "Coffee",
+    "CropProduction": 2753,
+    "Yield": 839,
+    "AreaUnderCultivation": 3.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "CottonLint",
+    "CropProduction": 86,
+    "Yield": 191,
+    "AreaUnderCultivation": 76.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "Groundnut",
+    "CropProduction": 41,
+    "Yield": 694,
+    "AreaUnderCultivation": 59.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "Pulses",
+    "CropProduction": 111,
+    "Yield": 543,
+    "AreaUnderCultivation": 205
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 39,
+    "Yield": 854,
+    "AreaUnderCultivation": 45.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 113,
+    "Yield": 1960,
+    "AreaUnderCultivation": 10.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "Rice",
+    "CropProduction": 718,
+    "Yield": 1744,
+    "AreaUnderCultivation": 412
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "Soyabean",
+    "CropProduction": 47,
+    "Yield": 762,
+    "AreaUnderCultivation": 61.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "Sugarcane",
+    "CropProduction": 2874,
+    "Yield": 63576,
+    "AreaUnderCultivation": 45.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "Tea",
+    "CropProduction": 8460,
+    "Yield": 1640,
+    "AreaUnderCultivation": 5.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1506,
+    "AreaUnderCultivation": 3.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "CropName": "Wheat",
+    "CropProduction": 658,
+    "Yield": 2610,
+    "AreaUnderCultivation": 252
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "CoarseCereals",
+    "CropProduction": 376,
+    "Yield": 1221,
+    "AreaUnderCultivation": 308
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "Coffee",
+    "CropProduction": 2705,
+    "Yield": 831,
+    "AreaUnderCultivation": 3.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "CottonLint",
+    "CropProduction": 137,
+    "Yield": 307,
+    "AreaUnderCultivation": 76
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "Groundnut",
+    "CropProduction": 81,
+    "Yield": 1357,
+    "AreaUnderCultivation": 59.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "Pulses",
+    "CropProduction": 149,
+    "Yield": 635,
+    "AreaUnderCultivation": 235
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 63,
+    "Yield": 1159,
+    "AreaUnderCultivation": 54.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 112,
+    "Yield": 2008,
+    "AreaUnderCultivation": 10
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "Rice",
+    "CropProduction": 885,
+    "Yield": 2077,
+    "AreaUnderCultivation": 426
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "Soyabean",
+    "CropProduction": 78,
+    "Yield": 1193,
+    "AreaUnderCultivation": 65.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "Sugarcane",
+    "CropProduction": 2339,
+    "Yield": 59380,
+    "AreaUnderCultivation": 39.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "Tea",
+    "CropProduction": 8787,
+    "Yield": 1691,
+    "AreaUnderCultivation": 5.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1486,
+    "AreaUnderCultivation": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "CropName": "Wheat",
+    "CropProduction": 722,
+    "Yield": 2713,
+    "AreaUnderCultivation": 266
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "CoarseCereals",
+    "CropProduction": 335,
+    "Yield": 1153,
+    "AreaUnderCultivation": 290
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "Coffee",
+    "CropProduction": 2755,
+    "Yield": 826,
+    "AreaUnderCultivation": 3.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "CottonLint",
+    "CropProduction": 164,
+    "Yield": 318,
+    "AreaUnderCultivation": 87.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "Groundnut",
+    "CropProduction": 68,
+    "Yield": 1020,
+    "AreaUnderCultivation": 66.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "Pulses",
+    "CropProduction": 131,
+    "Yield": 577,
+    "AreaUnderCultivation": 228
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 76,
+    "Yield": 1038,
+    "AreaUnderCultivation": 73.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 103,
+    "Yield": 2019,
+    "AreaUnderCultivation": 9.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "Rice",
+    "CropProduction": 831,
+    "Yield": 1984,
+    "AreaUnderCultivation": 419
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "Soyabean",
+    "CropProduction": 69,
+    "Yield": 908,
+    "AreaUnderCultivation": 75.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "Sugarcane",
+    "CropProduction": 2371,
+    "Yield": 64752,
+    "AreaUnderCultivation": 36.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "Tea",
+    "CropProduction": 9068,
+    "Yield": 1739,
+    "AreaUnderCultivation": 5.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1498,
+    "AreaUnderCultivation": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "CropName": "Wheat",
+    "CropProduction": 686,
+    "Yield": 2602,
+    "AreaUnderCultivation": 264
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "CoarseCereals",
+    "CropProduction": 341,
+    "Yield": 1172,
+    "AreaUnderCultivation": 291
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "Coffee",
+    "CropProduction": 2740,
+    "Yield": 803,
+    "AreaUnderCultivation": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "CottonLint",
+    "CropProduction": 185,
+    "Yield": 362,
+    "AreaUnderCultivation": 86.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "Groundnut",
+    "CropProduction": 80,
+    "Yield": 1187,
+    "AreaUnderCultivation": 67.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "Pulses",
+    "CropProduction": 134,
+    "Yield": 598,
+    "AreaUnderCultivation": 224
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 81,
+    "Yield": 1117,
+    "AreaUnderCultivation": 72.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 108,
+    "Yield": 2173,
+    "AreaUnderCultivation": 9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "Rice",
+    "CropProduction": 918,
+    "Yield": 2102,
+    "AreaUnderCultivation": 437
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "Soyabean",
+    "CropProduction": 83,
+    "Yield": 1073,
+    "AreaUnderCultivation": 77.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "Sugarcane",
+    "CropProduction": 2812,
+    "Yield": 66919,
+    "AreaUnderCultivation": 42
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "Tea",
+    "CropProduction": 9489,
+    "Yield": 1708,
+    "AreaUnderCultivation": 5.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1351,
+    "AreaUnderCultivation": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "CropName": "Wheat",
+    "CropProduction": 694,
+    "Yield": 2619,
+    "AreaUnderCultivation": 265
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "CoarseCereals",
+    "CropProduction": 339,
+    "Yield": 1182,
+    "AreaUnderCultivation": 287
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "Coffee",
+    "CropProduction": 2880,
+    "Yield": 840,
+    "AreaUnderCultivation": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "CottonLint",
+    "CropProduction": 226,
+    "Yield": 421,
+    "AreaUnderCultivation": 91.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "Groundnut",
+    "CropProduction": 49,
+    "Yield": 866,
+    "AreaUnderCultivation": 56.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "Pulses",
+    "CropProduction": 142,
+    "Yield": 612,
+    "AreaUnderCultivation": 232
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 74,
+    "Yield": 1095,
+    "AreaUnderCultivation": 67.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 113,
+    "Yield": 2170,
+    "AreaUnderCultivation": 9.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "Rice",
+    "CropProduction": 934,
+    "Yield": 2131,
+    "AreaUnderCultivation": 438
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "Soyabean",
+    "CropProduction": 89,
+    "Yield": 1063,
+    "AreaUnderCultivation": 83.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "Sugarcane",
+    "CropProduction": 3555,
+    "Yield": 69022,
+    "AreaUnderCultivation": 51.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "Tea",
+    "CropProduction": 9731,
+    "Yield": 1716,
+    "AreaUnderCultivation": 5.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "Tobacco",
+    "CropProduction": 5,
+    "Yield": 1274,
+    "AreaUnderCultivation": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "CropName": "Wheat",
+    "CropProduction": 758,
+    "Yield": 2708,
+    "AreaUnderCultivation": 280
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "CoarseCereals",
+    "CropProduction": 408,
+    "Yield": 1431,
+    "AreaUnderCultivation": 285
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "Coffee",
+    "CropProduction": 2620,
+    "Yield": 761,
+    "AreaUnderCultivation": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "CottonLint",
+    "CropProduction": 259,
+    "Yield": 467,
+    "AreaUnderCultivation": 94.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "Groundnut",
+    "CropProduction": 92,
+    "Yield": 1459,
+    "AreaUnderCultivation": 62.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "Pulses",
+    "CropProduction": 148,
+    "Yield": 625,
+    "AreaUnderCultivation": 236
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 58,
+    "Yield": 1001,
+    "AreaUnderCultivation": 58.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 112,
+    "Yield": 2101,
+    "AreaUnderCultivation": 9.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "Rice",
+    "CropProduction": 967,
+    "Yield": 2202,
+    "AreaUnderCultivation": 439
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "Soyabean",
+    "CropProduction": 110,
+    "Yield": 1235,
+    "AreaUnderCultivation": 88.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "Sugarcane",
+    "CropProduction": 3482,
+    "Yield": 68877,
+    "AreaUnderCultivation": 50.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "Tea",
+    "CropProduction": 9870,
+    "Yield": 1706,
+    "AreaUnderCultivation": 5.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "Tobacco",
+    "CropProduction": 4,
+    "Yield": 1255,
+    "AreaUnderCultivation": 3.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "CropName": "Wheat",
+    "CropProduction": 786,
+    "Yield": 2802,
+    "AreaUnderCultivation": 280
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "CoarseCereals",
+    "CropProduction": 400,
+    "Yield": 1459,
+    "AreaUnderCultivation": 275
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "Coffee",
+    "CropProduction": 2623,
+    "Yield": 748,
+    "AreaUnderCultivation": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "CottonLint",
+    "CropProduction": 223,
+    "Yield": 403,
+    "AreaUnderCultivation": 94.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "Groundnut",
+    "CropProduction": 72,
+    "Yield": 1163,
+    "AreaUnderCultivation": 61.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "Pulses",
+    "CropProduction": 146,
+    "Yield": 659,
+    "AreaUnderCultivation": 221
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 72,
+    "Yield": 1143,
+    "AreaUnderCultivation": 63
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 104,
+    "Yield": 2071,
+    "AreaUnderCultivation": 9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "Rice",
+    "CropProduction": 992,
+    "Yield": 2178,
+    "AreaUnderCultivation": 455
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "Soyabean",
+    "CropProduction": 99,
+    "Yield": 1041,
+    "AreaUnderCultivation": 95.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "Sugarcane",
+    "CropProduction": 2850,
+    "Yield": 64553,
+    "AreaUnderCultivation": 44.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "Tea",
+    "CropProduction": 9728,
+    "Yield": 1679,
+    "AreaUnderCultivation": 5.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "Tobacco",
+    "CropProduction": 6,
+    "Yield": 1456,
+    "AreaUnderCultivation": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "CropName": "Wheat",
+    "CropProduction": 807,
+    "Yield": 2907,
+    "AreaUnderCultivation": 278
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "CoarseCereals",
+    "CropProduction": 336,
+    "Yield": 1212,
+    "AreaUnderCultivation": 277
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "Coffee",
+    "CropProduction": 2896,
+    "Yield": 815,
+    "AreaUnderCultivation": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "CottonLint",
+    "CropProduction": 240,
+    "Yield": 403,
+    "AreaUnderCultivation": 101.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "Groundnut",
+    "CropProduction": 54,
+    "Yield": 991,
+    "AreaUnderCultivation": 54.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "Pulses",
+    "CropProduction": 147,
+    "Yield": 630,
+    "AreaUnderCultivation": 233
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 66,
+    "Yield": 1183,
+    "AreaUnderCultivation": 55.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 118,
+    "Yield": 2349,
+    "AreaUnderCultivation": 9.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "Rice",
+    "CropProduction": 891,
+    "Yield": 2125,
+    "AreaUnderCultivation": 419
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "Soyabean",
+    "CropProduction": 100,
+    "Yield": 1024,
+    "AreaUnderCultivation": 97.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "Sugarcane",
+    "CropProduction": 2923,
+    "Yield": 70020,
+    "AreaUnderCultivation": 41.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "Tea",
+    "CropProduction": 9912,
+    "Yield": 1711,
+    "AreaUnderCultivation": 5.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "Tobacco",
+    "CropProduction": 7,
+    "Yield": 1559,
+    "AreaUnderCultivation": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "CropName": "Wheat",
+    "CropProduction": 808,
+    "Yield": 2839,
+    "AreaUnderCultivation": 285
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "CoarseCereals",
+    "CropProduction": 434,
+    "Yield": 1531,
+    "AreaUnderCultivation": 283
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "Coffee",
+    "CropProduction": 3020,
+    "Yield": 838,
+    "AreaUnderCultivation": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "CottonLint",
+    "CropProduction": 330,
+    "Yield": 499,
+    "AreaUnderCultivation": 112.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "Groundnut",
+    "CropProduction": 83,
+    "Yield": 1411,
+    "AreaUnderCultivation": 58.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "Pulses",
+    "CropProduction": 182,
+    "Yield": 691,
+    "AreaUnderCultivation": 264
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 82,
+    "Yield": 1185,
+    "AreaUnderCultivation": 69
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 106,
+    "Yield": 2192,
+    "AreaUnderCultivation": 8.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "Rice",
+    "CropProduction": 960,
+    "Yield": 2239,
+    "AreaUnderCultivation": 429
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "Soyabean",
+    "CropProduction": 127,
+    "Yield": 1327,
+    "AreaUnderCultivation": 96
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "Sugarcane",
+    "CropProduction": 3424,
+    "Yield": 70091,
+    "AreaUnderCultivation": 48.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "Tea",
+    "CropProduction": 9667,
+    "Yield": 1726,
+    "AreaUnderCultivation": 5.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "Tobacco",
+    "CropProduction": 9,
+    "Yield": 1794,
+    "AreaUnderCultivation": 4.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "CropName": "Wheat",
+    "CropProduction": 869,
+    "Yield": 2988,
+    "AreaUnderCultivation": 291
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "CoarseCereals",
+    "CropProduction": 420,
+    "Yield": 1590,
+    "AreaUnderCultivation": 264
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "Coffee",
+    "CropProduction": 3140,
+    "Yield": 852,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "CottonLint",
+    "CropProduction": 352,
+    "Yield": 491,
+    "AreaUnderCultivation": 121.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "Groundnut",
+    "CropProduction": 70,
+    "Yield": 1323,
+    "AreaUnderCultivation": 52.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "Pulses",
+    "CropProduction": 171,
+    "Yield": 699,
+    "AreaUnderCultivation": 245
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 66,
+    "Yield": 1121,
+    "AreaUnderCultivation": 58.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 114,
+    "Yield": 2283,
+    "AreaUnderCultivation": 9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "Rice",
+    "CropProduction": 1053,
+    "Yield": 2393,
+    "AreaUnderCultivation": 440
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "Soyabean",
+    "CropProduction": 122,
+    "Yield": 1208,
+    "AreaUnderCultivation": 101.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "Sugarcane",
+    "CropProduction": 3610,
+    "Yield": 71668,
+    "AreaUnderCultivation": 50.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "Tea",
+    "CropProduction": 10955,
+    "Yield": 1956,
+    "AreaUnderCultivation": 5.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "Tobacco",
+    "CropProduction": 8,
+    "Yield": 1613,
+    "AreaUnderCultivation": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "CropName": "Wheat",
+    "CropProduction": 949,
+    "Yield": 3177,
+    "AreaUnderCultivation": 299
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "CoarseCereals",
+    "CropProduction": 400,
+    "Yield": 1617,
+    "AreaUnderCultivation": 248
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "Coffee",
+    "CropProduction": 3182,
+    "Yield": 846,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "CottonLint",
+    "CropProduction": 342,
+    "Yield": 486,
+    "AreaUnderCultivation": 119.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "Groundnut",
+    "CropProduction": 47,
+    "Yield": 996,
+    "AreaUnderCultivation": 47.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "Pulses",
+    "CropProduction": 183,
+    "Yield": 789,
+    "AreaUnderCultivation": 233
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 80,
+    "Yield": 1262,
+    "AreaUnderCultivation": 63.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 109,
+    "Yield": 2281,
+    "AreaUnderCultivation": 8.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "Rice",
+    "CropProduction": 1052,
+    "Yield": 2461,
+    "AreaUnderCultivation": 428
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "Soyabean",
+    "CropProduction": 147,
+    "Yield": 1354,
+    "AreaUnderCultivation": 108.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "Sugarcane",
+    "CropProduction": 3412,
+    "Yield": 68254,
+    "AreaUnderCultivation": 50
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "Tea",
+    "CropProduction": 11351,
+    "Yield": 2027,
+    "AreaUnderCultivation": 5.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "Tobacco",
+    "CropProduction": 7,
+    "Yield": 1542,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "CropName": "Wheat",
+    "CropProduction": 935,
+    "Yield": 3117,
+    "AreaUnderCultivation": 300
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "CoarseCereals",
+    "CropProduction": 433,
+    "Yield": 1677,
+    "AreaUnderCultivation": 257
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "Coffee",
+    "CropProduction": 3045,
+    "Yield": 799,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "CottonLint",
+    "CropProduction": 359,
+    "Yield": 532,
+    "AreaUnderCultivation": 116.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "Groundnut",
+    "CropProduction": 97,
+    "Yield": 1750,
+    "AreaUnderCultivation": 55.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "Pulses",
+    "CropProduction": 193,
+    "Yield": 764,
+    "AreaUnderCultivation": 252
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 79,
+    "Yield": 1188,
+    "AreaUnderCultivation": 67
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 117,
+    "Yield": 2449,
+    "AreaUnderCultivation": 8.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "Rice",
+    "CropProduction": 1067,
+    "Yield": 2424,
+    "AreaUnderCultivation": 440
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "Soyabean",
+    "CropProduction": 119,
+    "Yield": 983,
+    "AreaUnderCultivation": 122
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "Sugarcane",
+    "CropProduction": 3521,
+    "Yield": 69839,
+    "AreaUnderCultivation": 50.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "Tea",
+    "CropProduction": 12088,
+    "Yield": 2121,
+    "AreaUnderCultivation": 5.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "Tobacco",
+    "CropProduction": 7,
+    "Yield": 1612.38,
+    "AreaUnderCultivation": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "CropName": "Wheat",
+    "CropProduction": 959,
+    "Yield": 3075,
+    "AreaUnderCultivation": 312
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "CoarseCereals",
+    "CropProduction": 429,
+    "Yield": 1729,
+    "AreaUnderCultivation": 242
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "Coffee",
+    "CropProduction": 3270,
+    "Yield": 847,
+    "AreaUnderCultivation": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "CottonLint",
+    "CropProduction": 348,
+    "Yield": 461,
+    "AreaUnderCultivation": 130.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "Groundnut",
+    "CropProduction": 74,
+    "Yield": 1400,
+    "AreaUnderCultivation": 46.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "Pulses",
+    "CropProduction": 172,
+    "Yield": 744,
+    "AreaUnderCultivation": 231
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 63,
+    "Yield": 1089,
+    "AreaUnderCultivation": 57.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 111,
+    "Yield": 2550,
+    "AreaUnderCultivation": 8.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "Rice",
+    "CropProduction": 1055,
+    "Yield": 2390,
+    "AreaUnderCultivation": 439
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "Soyabean",
+    "CropProduction": 104,
+    "Yield": 950,
+    "AreaUnderCultivation": 110.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "Sugarcane",
+    "CropProduction": 3623,
+    "Yield": 69859,
+    "AreaUnderCultivation": 51.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "Tea",
+    "CropProduction": 11972,
+    "Yield": 2113,
+    "AreaUnderCultivation": 5.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "Tobacco",
+    "CropProduction": 9,
+    "Yield": 1830,
+    "AreaUnderCultivation": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "CropName": "Wheat",
+    "CropProduction": 865,
+    "Yield": 2872,
+    "AreaUnderCultivation": 310
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "CoarseCereals",
+    "CropProduction": 385,
+    "Yield": 1579,
+    "AreaUnderCultivation": 244
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "Coffee",
+    "CropProduction": 3480,
+    "Yield": 876,
+    "AreaUnderCultivation": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "CottonLint",
+    "CropProduction": 300,
+    "Yield": 415,
+    "AreaUnderCultivation": 122.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "Groundnut",
+    "CropProduction": 67,
+    "Yield": 1465,
+    "AreaUnderCultivation": 45.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "Pulses",
+    "CropProduction": 164,
+    "Yield": 656,
+    "AreaUnderCultivation": 249
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 68,
+    "Yield": 1183,
+    "AreaUnderCultivation": 57.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 105,
+    "Yield": 2421,
+    "AreaUnderCultivation": 7.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "Rice",
+    "CropProduction": 1044,
+    "Yield": 2400,
+    "AreaUnderCultivation": 435
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "Soyabean",
+    "CropProduction": 86,
+    "Yield": 738,
+    "AreaUnderCultivation": 116
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "Sugarcane",
+    "CropProduction": 3484,
+    "Yield": 70720,
+    "AreaUnderCultivation": 49.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "Tea",
+    "CropProduction": 12331,
+    "Yield": 2176,
+    "AreaUnderCultivation": 5.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "Tobacco",
+    "CropProduction": 8,
+    "Yield": 1781,
+    "AreaUnderCultivation": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "CropName": "Wheat",
+    "CropProduction": 923,
+    "Yield": 3034,
+    "AreaUnderCultivation": 304
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "CoarseCereals",
+    "CropProduction": 438,
+    "Yield": 1750,
+    "AreaUnderCultivation": 250
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "Coffee",
+    "CropProduction": 3120,
+    "Yield": 761,
+    "AreaUnderCultivation": 4.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "CottonLint",
+    "CropProduction": 326,
+    "Yield": 512,
+    "AreaUnderCultivation": 108.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "Groundnut",
+    "CropProduction": 75,
+    "Yield": 1398,
+    "AreaUnderCultivation": 53.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "Pulses",
+    "CropProduction": 231,
+    "Yield": 786,
+    "AreaUnderCultivation": 294
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 79,
+    "Yield": 1304,
+    "AreaUnderCultivation": 60.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 110,
+    "Yield": 2585,
+    "AreaUnderCultivation": 7.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "Rice",
+    "CropProduction": 1097,
+    "Yield": 2494,
+    "AreaUnderCultivation": 440
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "Soyabean",
+    "CropProduction": 132,
+    "Yield": 1177,
+    "AreaUnderCultivation": 111.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "Sugarcane",
+    "CropProduction": 3061,
+    "Yield": 69001,
+    "AreaUnderCultivation": 44.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "Tea",
+    "CropProduction": 12505,
+    "Yield": 2165,
+    "AreaUnderCultivation": 5.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "Tobacco",
+    "CropProduction": 8,
+    "Yield": 2016,
+    "AreaUnderCultivation": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "CropName": "Wheat",
+    "CropProduction": 985,
+    "Yield": 3200,
+    "AreaUnderCultivation": 308
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "CoarseCereals",
+    "CropProduction": 470,
+    "Yield": 1934,
+    "AreaUnderCultivation": 243
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "Coffee",
+    "CropProduction": 3160,
+    "Yield": 765,
+    "AreaUnderCultivation": 4.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "CottonLint",
+    "CropProduction": 328,
+    "Yield": 443,
+    "AreaUnderCultivation": 126
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "Groundnut",
+    "CropProduction": 93,
+    "Yield": 1893,
+    "AreaUnderCultivation": 49.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "Pulses",
+    "CropProduction": 254,
+    "Yield": 853,
+    "AreaUnderCultivation": 298
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 84,
+    "Yield": 1410,
+    "AreaUnderCultivation": 59.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 100,
+    "Yield": 2435,
+    "AreaUnderCultivation": 7.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "Rice",
+    "CropProduction": 1128,
+    "Yield": 2576,
+    "AreaUnderCultivation": 438
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "Soyabean",
+    "CropProduction": 109,
+    "Yield": 1058,
+    "AreaUnderCultivation": 103
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "Sugarcane",
+    "CropProduction": 3799,
+    "Yield": 80198,
+    "AreaUnderCultivation": 47.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "Tea",
+    "CropProduction": 13251,
+    "Yield": 2208,
+    "AreaUnderCultivation": 5.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "Tobacco",
+    "CropProduction": 10,
+    "Yield": 2317,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "CropName": "Wheat",
+    "CropProduction": 999,
+    "Yield": 3368,
+    "AreaUnderCultivation": 297
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "CoarseCereals",
+    "CropProduction": 431,
+    "Yield": 1944,
+    "AreaUnderCultivation": 221
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "Coffee",
+    "CropProduction": 3195,
+    "Yield": 767,
+    "AreaUnderCultivation": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "CottonLint",
+    "CropProduction": 280,
+    "Yield": 378,
+    "AreaUnderCultivation": 126.14
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "Groundnut",
+    "CropProduction": 67,
+    "Yield": 1422,
+    "AreaUnderCultivation": 47.31
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "Pulses",
+    "CropProduction": 221,
+    "Yield": 757,
+    "AreaUnderCultivation": 292
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 93,
+    "Yield": 1511,
+    "AreaUnderCultivation": 61.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 98,
+    "Yield": 2508,
+    "AreaUnderCultivation": 7.05
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "Rice",
+    "CropProduction": 1165,
+    "Yield": 2638,
+    "AreaUnderCultivation": 442
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "Soyabean",
+    "CropProduction": 133,
+    "Yield": 1192,
+    "AreaUnderCultivation": 111.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "Sugarcane",
+    "CropProduction": 4054,
+    "Yield": 80105,
+    "AreaUnderCultivation": 50.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "Tea",
+    "CropProduction": 13500,
+    "Yield": 2109,
+    "AreaUnderCultivation": 6.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "Tobacco",
+    "CropProduction": 7,
+    "Yield": 1610,
+    "AreaUnderCultivation": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "CropName": "Wheat",
+    "CropProduction": 1036,
+    "Yield": 3533,
+    "AreaUnderCultivation": 293
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "CoarseCereals",
+    "CropProduction": 478,
+    "Yield": 1991,
+    "AreaUnderCultivation": 240
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "Coffee",
+    "CropProduction": 2980,
+    "Yield": 713,
+    "AreaUnderCultivation": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "CottonLint",
+    "CropProduction": 361,
+    "Yield": 454.93,
+    "AreaUnderCultivation": 134.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "Groundnut",
+    "CropProduction": 100,
+    "Yield": 2062.51,
+    "AreaUnderCultivation": 48.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "Pulses",
+    "CropProduction": 230,
+    "Yield": 823,
+    "AreaUnderCultivation": 280
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 91,
+    "Yield": 1330.7,
+    "AreaUnderCultivation": 68.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 99,
+    "Yield": 2640.55,
+    "AreaUnderCultivation": 6.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "Rice",
+    "CropProduction": 1189,
+    "Yield": 2722,
+    "AreaUnderCultivation": 437
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "Soyabean",
+    "CropProduction": 112,
+    "Yield": 920.7,
+    "AreaUnderCultivation": 121.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "Sugarcane",
+    "CropProduction": 3705,
+    "Yield": 80496.72,
+    "AreaUnderCultivation": 46
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "Tea",
+    "CropProduction": 13608,
+    "Yield": 2126.27,
+    "AreaUnderCultivation": 6.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "Tobacco",
+    "CropProduction": 8,
+    "Yield": 1982,
+    "AreaUnderCultivation": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "CropName": "Wheat",
+    "CropProduction": 1079,
+    "Yield": 3440,
+    "AreaUnderCultivation": 314
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "CoarseCereals",
+    "CropProduction": 512,
+    "Yield": 2146,
+    "AreaUnderCultivation": 238
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "Coffee",
+    "CropProduction": 3538,
+    "Yield": 790,
+    "AreaUnderCultivation": 4.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "CottonLint",
+    "CropProduction": 354,
+    "Yield": 462.46,
+    "AreaUnderCultivation": 130.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "Groundnut",
+    "CropProduction": 102,
+    "Yield": 1675.62,
+    "AreaUnderCultivation": 60.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "Pulses",
+    "CropProduction": 257,
+    "Yield": 892,
+    "AreaUnderCultivation": 288
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "RapeseedMustard",
+    "CropProduction": 101,
+    "Yield": 1511.16,
+    "AreaUnderCultivation": 66.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "RawJuteMesta",
+    "CropProduction": 96,
+    "Yield": 2594.89,
+    "AreaUnderCultivation": 6.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "Rice",
+    "CropProduction": 1223,
+    "Yield": 2713,
+    "AreaUnderCultivation": 451
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "Soyabean",
+    "CropProduction": 129,
+    "Yield": 1006.78,
+    "AreaUnderCultivation": 128.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "Sugarcane",
+    "CropProduction": 3993,
+    "Yield": 82205.14,
+    "AreaUnderCultivation": 48.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "Tea",
+    "CropProduction": 12803,
+    "Yield": 2004.73,
+    "AreaUnderCultivation": 6.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "Tobacco",
+    "CropProduction": "",
+    "Yield": "",
+    "AreaUnderCultivation": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "CropName": "Wheat",
+    "CropProduction": 1095,
+    "Yield": 3464,
+    "AreaUnderCultivation": 316
+  }
+]
